@@ -1,2 +1,2 @@
-# dipti-batc-2
+# Dipti-batc-2
 Git practise
